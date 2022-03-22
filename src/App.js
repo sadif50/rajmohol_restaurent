@@ -1,8 +1,9 @@
 import './App.css';
+import MainComponents from './Components/MainComponents';
 
 function App() {
   return (
-    'Hello'
+    <MainComponents/>
   );
 }
 
